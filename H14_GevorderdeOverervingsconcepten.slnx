@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="B14_1_ToStringEnEqualsOverriden/B14_1_ToStringEnEqualsOverriden.csproj" />
+  <Project Path="B14_2_AbstracteKlasseGeometrischeFiguur/B14_2_AbstracteKlasseGeometrischeFiguur.csproj" />
+  <Project Path="B14_3_EigenExceptionKlasse/B14_3_EigenExceptionKlasse.csproj" />
+  <Project Path="E14_1_PongMetSpelObjectEnScoreBoard/E14_1_PongMetSpelObjectEnScoreBoard.csproj" />
+  <Project Path="E14_2_AbstracteDierenhierarchieMetInterfacePreview/E14_2_AbstracteDierenhierarchieMetInterfacePreview.csproj" />
+  <Project Path="P14_1_RPGUitgebreidMetAbstracteSpelEntiteit/P14_1_RPGUitgebreidMetAbstracteSpelEntiteit.csproj" />
+  <Project Path="P14_2_ReportingFrameworkMetAbstractEigenExceptions/P14_2_ReportingFrameworkMetAbstractEigenExceptions.csproj" />
+</Solution>
